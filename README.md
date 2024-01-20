@@ -11,5 +11,4 @@ Welcome to the Java Tutorial Exercises repository! This repository contains a se
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/java-tutorial-exercises.git
-cd java-tutorial-exercises
+https://github.com/Shubhameme/JavaTuts.git
